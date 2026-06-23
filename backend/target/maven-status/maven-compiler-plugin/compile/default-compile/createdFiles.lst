@@ -1,0 +1,6 @@
+com\happyhour\model\Restaurant.class
+com\happyhour\HappyHourApplication.class
+com\happyhour\config\CorsConfig.class
+com\happyhour\model\HappyHour.class
+com\happyhour\service\RestaurantService.class
+com\happyhour\controller\RestaurantController.class

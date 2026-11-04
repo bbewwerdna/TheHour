@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "The Hour",
+    "slug": "the-hour",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
